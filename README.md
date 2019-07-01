@@ -1,4 +1,4 @@
-# vue-hooks-dialog
+# vue-dialog-module
 
 ## Project setup
 ```
